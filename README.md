@@ -2,8 +2,6 @@
 
 Uma aplicação moderna e interativa de gerenciamento de tarefas construída com React, projetada para ajudar você a organizar suas atividades diárias de forma eficiente.
 
-![Captura de Tela da Lista de Tarefas](/src/img/bg.png)
-
 ## 🚀 Funcionalidades
 
 - **Gerenciamento de Tarefas**: Crie, complete e remova tarefas com facilidade
