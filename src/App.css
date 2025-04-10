@@ -78,6 +78,19 @@ select {
   width: 100%;
 }
 
+.todo.completed {
+  background-color: #ddd;
+  color: #666;
+  opacity: 0.7;
+  font-style: italic;
+  text-decoration: line-through;
+  transition: all 0.3s ease;
+}
+
+.reopen {
+  background-color: #555; /* cinza escuro */
+}
+
 .complete {
   background-color: #008000;
   opacity: 0.8;
